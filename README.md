@@ -23,8 +23,8 @@ My solutions to Harvard's [CS50P](https://cs50.harvard.edu/python/) — Introduc
 | 15 | nutrition | 2 — Loops | Looks up nutritional info |
 | 16 | grocery | 3 — Exceptions | Counts grocery list items |
 | 17 | outdated | 3 — Exceptions | Converts dates to ISO format |
-| 18 | fuel | 4 — Libraries | Converts fractions to percentages |
-| 19 | taqueria | 4 — Libraries | Takes taco orders |
+| 18 | fuel | 3 - Exceptions | Converts fractions to percentages |
+| 19 | taqueria | 3 - Exceptions | Takes taco orders |
 | 20 | emojize | 4 — Libraries | Converts emoji codes to emojis |
 
 ## Progress
