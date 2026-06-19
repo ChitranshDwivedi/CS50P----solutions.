@@ -1,1 +1,1 @@
-# CS50---projects.
+# CS50P -- solutions.
