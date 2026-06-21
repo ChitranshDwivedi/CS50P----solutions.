@@ -26,7 +26,8 @@ My solutions to Harvard's [CS50P](https://cs50.harvard.edu/python/) — Introduc
 | 18 | fuel | 3 — Exceptions | Converts fractions to percentages |
 | 19 | taqueria | 3 — Exceptions | Takes taco orders |
 | 20 | emojize | 4 — Libraries | Converts emoji codes to emojis |
-| 21 | figlet | 4 — Libraries | Converts ordinary text into a form of ASCII art|
+| 21 | figlet | 4 — Libraries | Converts ordinary text into a form of ASCII art |
+| 22 | adieu | 4 — Libraries | Says "adieu" to entered names |
 
 ## Progress
 CS50P — ongoing ✅
