@@ -28,7 +28,9 @@ My solutions to Harvard's [CS50P](https://cs50.harvard.edu/python/) — Introduc
 | 20 | emojize | 4 — Libraries | Converts emoji codes to emojis |
 | 21 | figlet | 4 — Libraries | Converts ordinary text into a form of ASCII art |
 | 22 | adieu | 4 — Libraries | Says "adieu" to entered names |
-| 23 | game | 4 — Libraries | number guessing game |
+| 23 | game | 4 — Libraries | Number guessing game |
+| 24 | professor | 4 — Libraries| Addition problem generator |
+| 25 | bitcoin | 4 — Libraries | Fetches bitcoin price |
 
 ## Progress
 CS50P — ongoing ✅
