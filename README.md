@@ -31,6 +31,10 @@ My solutions to Harvard's [CS50P](https://cs50.harvard.edu/python/) — Introduc
 | 23 | game | 4 — Libraries | Number guessing game |
 | 24 | professor | 4 — Libraries| Addition problem generator |
 | 25 | bitcoin | 4 — Libraries | Fetches bitcoin price |
+| 26 | test_bank | 5 — Unit Tests | Tests code of bank.py |
+| 27 | test_fuel | 5 — Unit Tests | Tests code of fuel.py |
+| 28 | test_plates | 5 — Unit Tests | Tests code of plates.py |
+| 29 | test_twttr | 5 — Unit Tests | Tests code of twttr.py |
 
 ## Progress
 CS50P — ongoing ✅
