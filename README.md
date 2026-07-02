@@ -35,6 +35,10 @@ My solutions to Harvard's [CS50P](https://cs50.harvard.edu/python/) — Introduc
 | 27 | test_fuel | 5 — Unit Tests | Tests code of fuel.py |
 | 28 | test_plates | 5 — Unit Tests | Tests code of plates.py |
 | 29 | test_twttr | 5 — Unit Tests | Tests code of twttr.py |
+| 30 | lines | 6 — File I/O | Counts lines of Python code |
+| 31 | pizza | 6 — File I/O | Displays pizza menu tables |
+| 32 | scourgify | 6 — File I/O | Reformats CSV student data |
+| 33 | shirt | 6 — File I/O | Overlays shirt onto photos | 
 
 ## Progress
 CS50P — ongoing ✅
