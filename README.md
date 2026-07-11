@@ -38,7 +38,12 @@ My solutions to Harvard's [CS50P](https://cs50.harvard.edu/python/) — Introduc
 | 30 | lines | 6 — File I/O | Counts lines of Python code |
 | 31 | pizza | 6 — File I/O | Displays pizza menu tables |
 | 32 | scourgify | 6 — File I/O | Reformats CSV student data |
-| 33 | shirt | 6 — File I/O | Overlays shirt onto photos | 
+| 33 | shirt | 6 — File I/O | Overlays shirt onto photos |
+| 34 | numb3rs | 7 – Regular Expressions | Validates IPv4 addresses |
+| 35 | watch | 7 – Regular Expressions | Extracts YouTube URLs from HTML |
+| 36 | working | 7 – Regular Expressions | Converts 12-hour time to 24-hour |
+| 37 | um | 7 – Regular Expressions | Counts "um" in text |
+| 38 | response | 7 – Regular Expressions | Validates email addresses |
 
 ## Progress
 CS50P — ongoing ✅
