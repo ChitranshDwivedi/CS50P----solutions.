@@ -44,6 +44,9 @@ My solutions to Harvard's [CS50P](https://cs50.harvard.edu/python/) — Introduc
 | 36 | working | 7 – Regular Expressions | Converts 12-hour time to 24-hour |
 | 37 | um | 7 – Regular Expressions | Counts "um" in text |
 | 38 | response | 7 – Regular Expressions | Validates email addresses |
+| 39 | seasons | 8 – Object-Oriented Programming | Converts age in days into minutes in words |
+| 40 | jar | 8 – Object-Oriented Programming | Cookie jar implementation using OOP |
+| 41 | shirtificate | 8 – Object-Oriented Programming | Generates a CS50 shirtificate PDF |
 
 ## Progress
 CS50P — ongoing ✅
