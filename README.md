@@ -47,6 +47,9 @@ My solutions to Harvard's [CS50P](https://cs50.harvard.edu/python/) — Introduc
 | 39 | seasons | 8 – Object-Oriented Programming | Converts age in days into minutes in words |
 | 40 | jar | 8 – Object-Oriented Programming | Cookie jar implementation using OOP |
 | 41 | shirtificate | 8 – Object-Oriented Programming | Generates a CS50 shirtificate PDF |
+| 42 | project | 9 – Etcetera | Steganography tool that hides encrypted messages in PNG images |
 
 ## Progress
-CS50P — ongoing ✅
+CS50P — Completed ✅
+
+![CS50P Certificate](CS50P.png)
