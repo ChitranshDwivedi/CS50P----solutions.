@@ -52,4 +52,5 @@ My solutions to Harvard's [CS50P](https://cs50.harvard.edu/python/) — Introduc
 ## Progress
 CS50P — Completed ✅
 
-![CS50P Certificate](CS50P.png)
+## Certificate
+[View Certificate](https://cs50.harvard.edu/certificates/0e4b8600-659f-42e5-8b99-2eb2f422c16e)
